@@ -358,7 +358,6 @@ OUTPUT Taller_herramientas_control.pdf
 INPUT C:\Users\gusta\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\gusta\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\gusta\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-OUTPUT Taller_herramientas_control.toc
 INPUT .\espina.png
 INPUT .\espina.png
 INPUT .\espina.png
