@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.19)  12 DEC 2023 17:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.19)  12 DEC 2023 17:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/gusta/OneDrive - SENA/Desktop/Taller_herramientas_control/Taller_herramientas_control.tex"
-(c:/Users/gusta/OneDrive - SENA/Desktop/Taller_herramientas_control/Taller_herramientas_control.tex
+**"c:/Users/gusta/OneDrive - SENA/Desktop/Taller_herramientas_control/Apellido_Nombre_Taller_Herramientas.pdf.tex"
+(c:/Users/gusta/OneDrive - SENA/Desktop/Taller_herramientas_control/Apellido_Nombre_Taller_Herramientas.pdf.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 (C:\Users\gusta\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -851,30 +851,8 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
- (Taller_herramientas_control.aux
-LaTeX Info: Redefining \. on input line 10.
-LaTeX Info: Redefining \% on input line 10.
-
-
-LaTeX Warning: Label `fig:imagen2' multiply defined.
-
-
-LaTeX Warning: Label `fig:imagen2' multiply defined.
-
-
-LaTeX Warning: Label `fig:imagen2' multiply defined.
-
-
-LaTeX Warning: Label `fig:imagen2' multiply defined.
-
-
-LaTeX Warning: Label `fig:imagen2' multiply defined.
-
-
-LaTeX Warning: Label `fig:imagen2' multiply defined.
-
-)
-\openout1 = `Taller_herramientas_control.aux'.
+ (Apellido_Nombre_Taller_Herramientas.pdf.aux)
+\openout1 = `Apellido_Nombre_Taller_Herramientas.pdf.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
 LaTeX Font Info:    ... okay on input line 74.
@@ -960,58 +938,57 @@ Package pgfplots notification 'compat/show suggested version=true': you might be
 Non-PDF special ignored!
 <special> header=psfrag.pro
 
-{C:/Users/gusta/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Taller_herramientas_control.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
- (C:\Users\gusta\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
- (C:\Users\gusta\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+{C:/Users/gusta/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+No file Apellido_Nombre_Taller_Herramientas.pdf.toc.
 \tf@toc=\write5
-\openout5 = `Taller_herramientas_control.toc'.
+\openout5 = `Apellido_Nombre_Taller_Herramientas.pdf.toc'.
 
- [1]
-<espina.png, id=15, 950.04938pt x 444.91219pt>
+[1]
+<espina.png, id=14, 950.04938pt x 444.91219pt>
 File: espina.png Graphic file (type png)
 <use espina.png>
 Package pdftex.def Info: espina.png  used on input line 127.
 (pdftex.def)             Requested size: 469.75539pt x 219.9912pt.
  [2 <./espina.png>]
-<espina2.png, id=21, 616.55344pt x 295.1025pt>
+<espina2.png, id=20, 616.55344pt x 295.1025pt>
 File: espina2.png Graphic file (type png)
 <use espina2.png>
 Package pdftex.def Info: espina2.png  used on input line 156.
 (pdftex.def)             Requested size: 469.75539pt x 224.84758pt.
- [3 <./espina2.png>] [4]
-<Grapich.png, id=30, 564.60938pt x 666.23906pt>
+ [3 <./espina2.png>]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 170.
+ (C:\Users\gusta\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 170.
+ (C:\Users\gusta\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [4]
+<Grapich.png, id=29, 564.60938pt x 666.23906pt>
 File: Grapich.png Graphic file (type png)
 <use Grapich.png>
 Package pdftex.def Info: Grapich.png  used on input line 235.
 (pdftex.def)             Requested size: 328.82733pt x 388.02515pt.
  [5] [6 <./Grapich.png>]
-<flujo_simb.png, id=40, 493.845pt x 497.86pt>
+<flujo_simb.png, id=39, 493.845pt x 497.86pt>
 File: flujo_simb.png Graphic file (type png)
 <use flujo_simb.png>
 Package pdftex.def Info: flujo_simb.png  used on input line 274.
 (pdftex.def)             Requested size: 187.89928pt x 189.42426pt.
  [7 <./flujo_simb.png>]
-<flujotornillos.png, id=45, 651.93562pt x 784.43062pt>
+<flujotornillos.png, id=44, 651.93562pt x 784.43062pt>
 File: flujotornillos.png Graphic file (type png)
 <use flujotornillos.png>
 Package pdftex.def Info: flujotornillos.png  used on input line 291.
 (pdftex.def)             Requested size: 469.75539pt x 565.24445pt.
  [8] [9 <./flujotornillos.png>] [10]
-<Dispersion1.png, id=56, 484.209pt x 386.535pt>
+<Dispersion1.png, id=55, 484.209pt x 386.535pt>
 File: Dispersion1.png Graphic file (type png)
 <use Dispersion1.png>
 Package pdftex.def Info: Dispersion1.png  used on input line 346.
 (pdftex.def)             Requested size: 469.75539pt x 375.00926pt.
  [11] [12 <./Dispersion1.png>]
-c:/Users/gusta/OneDrive - SENA/Desktop/Taller_herramientas_control/Taller_herramientas_control.tex:365: Missing $ inserted.
+c:/Users/gusta/OneDrive - SENA/Desktop/Taller_herramientas_control/Apellido_Nombre_Taller_Herramientas.pdf.tex:365: Missing $ inserted.
 <inserted text> 
                 $
 l.365         Mes & Ventas (x10^
@@ -1019,7 +996,7 @@ l.365         Mes & Ventas (x10^
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-c:/Users/gusta/OneDrive - SENA/Desktop/Taller_herramientas_control/Taller_herramientas_control.tex:365: Extra }, or forgotten $.
+c:/Users/gusta/OneDrive - SENA/Desktop/Taller_herramientas_control/Apellido_Nombre_Taller_Herramientas.pdf.tex:365: Extra }, or forgotten $.
 <template> \unskip \hfil }
                           \hskip \tabcolsep \hskip -.5\arrayrulewidth \vrule...
 l.365         Mes & Ventas (x10^{6}COP) \\ \hline
@@ -1030,7 +1007,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-c:/Users/gusta/OneDrive - SENA/Desktop/Taller_herramientas_control/Taller_herramientas_control.tex:365: Missing $ inserted.
+c:/Users/gusta/OneDrive - SENA/Desktop/Taller_herramientas_control/Apellido_Nombre_Taller_Herramientas.pdf.tex:365: Missing $ inserted.
 <inserted text> 
                 $
 l.365         Mes & Ventas (x10^{6}COP) \\ \hline
@@ -1038,7 +1015,7 @@ l.365         Mes & Ventas (x10^{6}COP) \\ \hline
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-c:/Users/gusta/OneDrive - SENA/Desktop/Taller_herramientas_control/Taller_herramientas_control.tex:365: Missing } inserted.
+c:/Users/gusta/OneDrive - SENA/Desktop/Taller_herramientas_control/Apellido_Nombre_Taller_Herramientas.pdf.tex:365: Missing } inserted.
 <inserted text> 
                 }
 l.365         Mes & Ventas (x10^{6}COP) \\ \hline
@@ -1049,51 +1026,15 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-<tendencia.png, id=65, 362.007pt x 217.467pt>
+<tendencia.png, id=64, 362.007pt x 217.467pt>
 File: tendencia.png Graphic file (type png)
 <use tendencia.png>
 Package pdftex.def Info: tendencia.png  used on input line 382.
 (pdftex.def)             Requested size: 469.75539pt x 282.19601pt.
-[13] [14 <./tendencia.png>] (Taller_herramientas_control.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 37--50
-[]\OT1/cmr/m/n/10 Arias, E. R.  (2021, di-ciem-bre).  \OT1/cmr/m/it/10 An^^Sali-sis de ten-den-cia.
- []
+[13] [14 <./tendencia.png>]
+No file Apellido_Nombre_Taller_Herramientas.pdf.bbl.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--50
-\OT1/cmtt/m/n/10 https://economipedia.com/definiciones/analisis-de-tendencia.html\OT1/cmr/m/n/10 .  (Ac-ces-sed:
- []
-
-
-Overfull \hbox (30.27022pt too wide) in paragraph at lines 59--70
-[]\OT1/cmr/m/it/10 Diagrama de dis-per-si^^Son.  \OT1/cmr/m/n/10 (2017, ma-yo).  \OT1/cmtt/m/n/10 https://aprendiendocalidadyadr.com/diagrama-de-dispersion/\OT1/cmr/m/n/10 .
- []
-
-Runaway argument?
-{https://www.segurossura.com.co/empresasura/Documentacion\newblock \APACrefnote \ETC.
-Taller_herramientas_control.bbl:173: Paragraph ended before \url was complete.
-<to be read again> 
-                   \par 
-l.173 
-      
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Taller_herramientas_control.bbl:174: Missing } inserted.
-<inserted text> 
-                }
-l.174 \end{thebibliography}
-                           
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-) [15]
-
-c:/Users/gusta/OneDrive - SENA/Desktop/Taller_herramientas_control/Taller_herramientas_control.tex:392: LaTeX Error: \begin{enumerate} on input line 111 ended by \end{document}.
+c:/Users/gusta/OneDrive - SENA/Desktop/Taller_herramientas_control/Apellido_Nombre_Taller_Herramientas.pdf.tex:392: LaTeX Error: \begin{enumerate} on input line 111 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1105,7 +1046,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-(Taller_herramientas_control.aux
+(Apellido_Nombre_Taller_Herramientas.pdf.aux
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
 )
@@ -1115,7 +1056,7 @@ L3 programming layer <2023-08-29>
  ***********
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  )
 (\end occurred inside a group at level 1)
@@ -1123,17 +1064,17 @@ LaTeX Warning: There were multiply-defined labels.
 ### semi simple group (level 1) entered at line 111 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 33047 strings out of 475248
- 810041 string characters out of 5757813
+ 32999 strings out of 475248
+ 809152 string characters out of 5757813
  1937801 words of memory out of 5000000
- 53979 multiletter control sequences out of 15000+600000
- 564888 words of font info for 61 fonts, out of 8000000 for 9000
+ 53937 multiletter control sequences out of 15000+600000
+ 564720 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,103p,904b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\gusta\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Taller_herramientas_control.pdf (16 pages, 843780 bytes).
+ 99i,12n,103p,916b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\gusta\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Apellido_Nombre_Taller_Herramientas.pdf.pdf (15 pages, 804473 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
+ 105 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  48 words of extra memory for PDF output out of 10000 (max. 10000000)
 

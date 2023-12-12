@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Taller_herramientas_control.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apacite.bst
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: instrumentos.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 7 entries,
+            6951 wiz_defined-function locations,
+            1313 strings with 11842 characters,
+and the built_in function-call counts, 10542 in all, are:
+= -- 1356
+> -- 68
+< -- 391
++ -- 425
+- -- 14
+* -- 575
+:= -- 1771
+add.period$ -- 31
+call.type$ -- 7
+change.case$ -- 109
+chr.to.int$ -- 0
+cite$ -- 14
+duplicate$ -- 282
+empty$ -- 519
+format.name$ -- 104
+if$ -- 2158
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 0
+newline$ -- 164
+num.names$ -- 48
+pop$ -- 383
+preamble$ -- 1
+purify$ -- 30
+quote$ -- 0
+skip$ -- 619
+stack$ -- 0
+substring$ -- 482
+swap$ -- 141
+text.length$ -- 18
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 584
+warning$ -- 0
+while$ -- 39
+width$ -- 0
+write$ -- 187

@@ -1,53 +1,174 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
-{G{\'o}mez Morales, T., {\'A}gueda Casado, E., Garc{\'\i}a Jim{\'e}nez, J. L.,
-  \& Mart{\'\i}n Navarro, J.}%
+{50Minutos}%
 }{%
-{G{\'o}mez Morales, T., {\'A}gueda Casado, E., Garc{\'\i}a Jim{\'e}nez, J. L.,
-  \& Mart{\'\i}n Navarro, J.}%
+{50Minutos}%
 }{%
-{\protect \APACyear {2001}}%
+{\protect \APACyear {2016}}%
 }]{%
-Gomez_Morales_T_Agueda_Casado_E_Garcia_Jimenez_J_L_Martin_Navarro_J_undated-gv}
+50Minutos2016-vk}
 \APACinsertmetastar {%
-Gomez_Morales_T_Agueda_Casado_E_Garcia_Jimenez_J_L_Martin_Navarro_J_undated-gv}%
+50Minutos2016-vk}%
 \begin{APACrefauthors}%
-{G{\'o}mez Morales, T., {\'A}gueda Casado, E., Garc{\'\i}a Jim{\'e}nez, J. L.,
-  \& Mart{\'\i}n Navarro, J.}%
+{50Minutos}.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYear{2001}.
+\APACrefYear{2016}.
 \newblock
-\APACrefbtitle {Carrocer{\'\i}a. Elementos Estructurales del Veh{\'\i}culo}
-  {Carrocer{\'\i}a. elementos estructurales del veh{\'\i}culo}.
+\APACrefbtitle {El principio de Pareto: Optimice su negocio con la regla del
+  80/20} {El principio de pareto: Optimice su negocio con la regla del 80/20}.
 \newblock
-\APACaddressPublisher{La Villa y Corte de Madrid, Espa{\~n}a}{Paraninfo Cengage
-  Learning}.
+\APACaddressPublisher{}{50Minutos.es}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Gonz{\'a}lez%
-\ \BBA {} V{\'a}zquez%
+Arias%
 }{%
-Gonz{\'a}lez%
-\ \BBA {} V{\'a}zquez%
+Arias%
 }{%
-{\protect \APACyear {1995}}%
+{\protect \APACyear {2021}}%
 }]{%
-Gonzalez1995-fl}
+Arias2021-gi}
 \APACinsertmetastar {%
-Gonzalez1995-fl}%
+Arias2021-gi}%
 \begin{APACrefauthors}%
-Gonz{\'a}lez, C\BPBI G.%
-\BCBT {}\ \BBA {} V{\'a}zquez, J\BPBI R\BPBI Z.%
+Arias, E\BPBI R.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYear{1995}.
+\APACrefYearMonthDay{2021}{{\APACmonth{12}}}{}.
 \newblock
-\APACrefbtitle {Metrolog{\'\i}a} {Metrolog{\'\i}a}.
+\APACrefbtitle {An{\'a}lisis de tendencia.} {An{\'a}lisis de tendencia.}
+\newblock
+\APAChowpublished
+  {\url{https://economipedia.com/definiciones/analisis-de-tendencia.html}}.
+\newblock
+\APACrefnote{Accessed: 2023-12-6}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Diagrama de dispersi{\'o}n}}{%
+\APACcitebtitle {Diagrama de dispersi{\'o}n}}{%
+{\protect \APACyear {2017}}%
+}]{%
+noauthor_2017-mh}
+\APACinsertmetastar {%
+noauthor_2017-mh}%
+\APACrefbtitle {Diagrama de dispersi{\'o}n.} {Diagrama de dispersi{\'o}n.}
+\newblock
+\APACrefYearMonthDay{2017}{{\APACmonth{05}}}{}.
+\newblock
+\APAChowpublished
+  {\url{https://aprendiendocalidadyadr.com/diagrama-de-dispersion/}}.
+\newblock
+\APACaddressPublisher{}{Gehisy}.
+\newblock
+\APACrefnote{Accessed: 2023-12-6}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Evans%
+\ \BBA {} Lindsay%
+}{%
+Evans%
+\ \BBA {} Lindsay%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Evans2014-qd}
+\APACinsertmetastar {%
+Evans2014-qd}%
+\begin{APACrefauthors}%
+Evans, J.%
+\BCBT {}\ \BBA {} Lindsay, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2014}.
+\newblock
+\APACrefbtitle {Administracion y Control de la Calidad} {Administracion y
+  control de la calidad}\ (\PrintOrdinal{9}\ \BEd).
+\newblock
+\APACaddressPublisher{Valle de M{\'e}xico}{Cengage Learning Editores S.A. de
+  C.V}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gaither%
+\ \BBA {} Frazier%
+}{%
+Gaither%
+\ \BBA {} Frazier%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+Gaither2000-ex}
+\APACinsertmetastar {%
+Gaither2000-ex}%
+\begin{APACrefauthors}%
+Gaither, N.%
+\BCBT {}\ \BBA {} Frazier, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2000}.
+\newblock
+\APACrefbtitle {Administracion De Produccion {Y} Operaciones} {Administracion
+  de produccion {Y} operaciones}\ (\PrintOrdinal{4}\ \BEd).
+\newblock
+\APACaddressPublisher{Valle de M{\'e}xico}{Cengage Learning Editores S.A. de
+  C.V}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Harrington%
+}{%
+Harrington%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+Harrington1999-ka}
+\APACinsertmetastar {%
+Harrington1999-ka}%
+\begin{APACrefauthors}%
+Harrington, H\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1999}.
+\newblock
+\APACrefbtitle {Mejoramiento de Los procesos de la empresa} {Mejoramiento de
+  los procesos de la empresa}.
+\newblock
+\APACaddressPublisher{}{McGraw-Hill Companies}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+la~competitividad sostenible.%
+}{%
+la~competitividad sostenible.%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+La_competitividad_sostenible_undated-mj}
+\APACinsertmetastar {%
+La_competitividad_sostenible_undated-mj}%
+\begin{APACrefauthors}%
+la~competitividad sostenible., G\BPBI d\BPBI T\BPBI y\BPBI R\BPBI U\BPBI M\BPBI
+  d\BPBI A\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {{ESPINA} {DE} {PESCADO}.} {{ESPINA} {DE} {PESCADO}.}
+\newblock
+\APAChowpublished
+  {\url{https://www.segurossura.com.co/empresasura/Documentacion%20Formacion/cartilla-de-metodologia-de-gestion-de-riesgos-ishikawa.pdf}}.
+\newblock
+\APACrefnote{Accessed: 2023-12-6}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

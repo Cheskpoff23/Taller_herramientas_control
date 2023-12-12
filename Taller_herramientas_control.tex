@@ -91,9 +91,9 @@
 	\vspace{0.3cm}
 	{\scshape\Large Universidad de Córdoba\par}
 	\vspace{0.3cm}
-	{\Large \today \par}
+	{\Large 6 de Diciembre de 2023 \par}
 \end{titlepage}
-%\tableofcontents
+\tableofcontents
 \newpage
 
 \section{Espina de pescado (Causa y efecto)}
@@ -265,15 +265,127 @@ de producción.
 		los retrasos en la línea de producción.
 	\end{enumerate}
 		  \section{De flujo}
-
-		  \section{Dispersión}
-		  \section{Análisis de tendencia}
-
-
-
-\newpage
+		  Muestran la secuencia de pasos y las posibilidades de ramificaciones que existen en un proceso que
+		  transforma una o más entradas en una o más salidas. Los diagramas de flujo muestran las actividades,
+		  los puntos de decisión, las ramificaciones, las rutas paralelas y el orden general de proceso.
+		  En gestión de la calidad es una herramienta básica para la representación de los macroprocesos, procesos, subprocesos y/o tareas.
+		  \begin{figure}[H]
+			\centering
+			\includegraphics[width=0.4\textwidth]{flujo_simb.png}
+			\caption{Simbología del diagrama de flujo}
+			\label{fig:imagen2}
+		\end{figure}
+		Un diagrama de flujo presenta generalmente un único punto de inicio y un único punto de cierre, aunque puede tener más, siempre que cumpla con la lógica requerida.
+		\begin{itemize}
+			\item Pasos para construir un Diagrama de Flujo.
+			\begin{enumerate}
+				\item Definir el alcance del proceso a describir. De esta manera quedara fijado la entrada y la salida del diagrama.
+				\item Identificar y enumerar las principales actividades/subprocesos que están incluidos en el proceso a describir.
+				\item Establecer los puntos de decisión.
+				\item Construir el diagrama respetando la secuencia cronológica y asignando los correspondientes símbolos.
+				\item Fijar un título al diagrama y verificar que esté completo y describa con exactitud el proceso elegido.
+			\end{enumerate}
+		\end{itemize}  
+		\begin{figure}[H]
+			\centering
+			\includegraphics[width=\textwidth]{flujotornillos.png}
+			\caption[short]{Ejemplo de diagrama de flujo}
+			\label{fig:imagen2}
+		  \end{figure}
+		\section{Dispersión}
+		\begin{itemize}
+			\item Representan pares ordenados (X, Y) y a menudo se les denomina diagramas de correlación, ya que
+			pretenden explicar un cambio en la variable dependiente. Y en relación con un cambio observado en la
+			variable independiente X.\newline
+			La dirección de la correlación puede ser proporcional (correlación positiva), inversa (correlación
+			negativa), o bien puede no darse un patrón de correlación (correlación cero). En caso de que se pueda
+			establecer una correlación, se puede calcular una línea de regresión y utilizarla para estimar cómo un
+			cambio en la variable independiente influirá en el valor de la variable dependiente.
+			\item Una empresa de fabricación de perfiles de acero se plantea cambiar la composición de uno de sus productos utilizando un nuevo carbono de una nueva empresa. Antes de tomar una decisión, la empresa decide realizar un ensayo para estudiar la posible relación entre la utilización dicha materia prima y el número de no conformidades. Para ello analiza lotes con diferentes porcentajes de la nueva materia prima y toma los siguientes datos:
+			\begin{table}[H]
+				\centering
+				\begin{tabular}{|l|l|l|}
+				\hline
+					Nºmuestra & Porcentaje de carbono (\%) & Producto no conforme \\ \hline
+					1 & 1 & 10 \\ \hline
+					2 & 2 & 5 \\ \hline
+					3 & 1.5 & 7 \\ \hline
+					4 & 1.5 & 6 \\ \hline
+					5 & 3 & 2 \\ \hline
+					6 & 4 & 1 \\ \hline
+					7 & 1.6 & 8 \\ \hline
+					8 & 2.6 & 3 \\ \hline
+					9 & 3.5 & 2 \\ \hline
+					10 & 4.6 & 1 \\ \hline
+					11 & 5 & 1 \\ \hline
+					12 & 0.5 & 15 \\ \hline
+					13 & 4.3 & 1 \\ \hline
+					14 & 3.2 & 3 \\ \hline
+					15 & 5.1 & 1 \\ \hline
+					16 & 2.5 & 3 \\ \hline
+					17 & 1.8 & 7 \\ \hline
+					18 & 2.1 & 6 \\ \hline
+					19 & 3.9 & 3 \\ \hline
+					20 & 1.2 & 9 \\ \hline
+					21 & 2.4 & 4 \\ \hline
+					22 & 4.3 & 1 \\ \hline
+					23 & 3.5 & 3 \\ \hline
+					24 & 2.7 & 2 \\ \hline
+					25 & 0.5 & 16 \\ \hline
+					26 & 0.8 & 14 \\ \hline
+					27 & 1.2 & 9 \\ \hline
+					28 & 3.6 & 2 \\ \hline
+					29 & 5.3 & 1 \\ \hline
+					30 & 1 & 11 \\ \hline
+				\end{tabular}
+			\end{table}
+		\end{itemize}
 \end{itemize}
-\bibliographystyle{apacite}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{Dispersion1.png}
+	\caption[short]{Gráfico de dispersión}
+	\label{fig:imagen2}
+  \end{figure}
+  \begin{itemize}
+	\item En este caso, tendremos una correlación negativa (a medida que aumentamos el \% de la nueva materia prima, disminuye el número de productos no conformes). Con estos resultados la empresa podría plantearse la introducción de la nueva materia prima, aunque debería combinarlo con otras herramientas para una mejor toma de decisiones.
+  \end{itemize}\newpage
+\section{Análisis de tendencia}
+
+
+El análisis de tendencia es una técnica estadística que permite estudiar una o más variables en un período de tiempo aportando información para la toma de decisiones en la empresa.
+Es muy demandado para observar la evolución de variables empresariales como las ventas o los costes. Así, las empresas necesitan conocer esta información para sobrevivir en mercados globales.
+\begin{itemize}
+	\item  Imaginemos una empresa de tuberias que analiza la evolución de sus ventas mensuales. Observemos el gráfico.
+\end{itemize}
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|l|l|}
+    \hline
+        Mes & Ventas (x10^{6}COP) \\ \hline
+        1 & 2 \\ \hline
+        2 & 5 \\ \hline
+        3 & 6 \\ \hline
+        4 & 9 \\ \hline
+        5 & 10 \\ \hline
+        6 & 11 \\ \hline
+        7 & 12 \\ \hline
+        8 & 14 \\ \hline
+        9 & 17 \\ \hline
+        10 & 18 \\ \hline
+        11 & 21 \\ \hline
+        12 & 22 \\ \hline
+    \end{tabular}
+\end{table}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{tendencia.png}
+	\caption[short]{Gráfico de tendencia}
+	\label{fig:imagen2}
+  \end{figure}
+  La curva de ventas mensuales tiene picos altos en febrero, abril y septiembre y ventas algo menores en Junio, Julio y octubre. Por otro lado, el análisis de tendencia muestra una línea creciente. Además, el coeficiente de determinación (R cuadrado) indica que la predicción es bastante fiable al ser próximo a uno.
+  \newpage
+  \bibliographystyle{apacite}
 \nocite{*}
 \bibliography{instrumentos}
 

@@ -1,13 +1,17 @@
 # Fdb version 4
-["bibtex Taller_herramientas_control"] 1702418557 "Taller_herramientas_control.aux" "Taller_herramientas_control.bbl" "Taller_herramientas_control" 1702418566 0
+["bibtex Apellido_Nombre_Taller_Herramientas.pdf"] 0 "Apellido_Nombre_Taller_Herramientas.pdf.aux" "Apellido_Nombre_Taller_Herramientas.pdf.bbl" "Apellido_Nombre_Taller_Herramientas.pdf" 0 -1
   "./instrumentos.bib" 1702418490 2098 30374d6d9421e0ade365b6453f8e3816 ""
+  "Apellido_Nombre_Taller_Herramientas.pdf.aux" 1702418740 1974 af4a63ef93a31442ec9e2a9727547d6f "pdflatex"
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/bibtex/bst/apacite/apacite.bst" 1374952728 146156 9d7b79dbf9d91133318126032cff8c27 ""
-  "Taller_herramientas_control.aux" 1702418565 3751 5a78a00b7e74d5387276464e1a2e015a "pdflatex"
   (generated)
-  "Taller_herramientas_control.bbl"
-  "Taller_herramientas_control.blg"
+  "Apellido_Nombre_Taller_Herramientas.pdf.bbl"
+  "Apellido_Nombre_Taller_Herramientas.pdf.blg"
   (rewritten before read)
-["pdflatex"] 1702418562 "c:/Users/gusta/OneDrive - SENA/Desktop/Taller_herramientas_control/Taller_herramientas_control.tex" "Taller_herramientas_control.pdf" "Taller_herramientas_control" 1702418566 2
+["pdflatex"] 1702418737 "c:/Users/gusta/OneDrive - SENA/Desktop/Taller_herramientas_control/Apellido_Nombre_Taller_Herramientas.pdf.tex" "Apellido_Nombre_Taller_Herramientas.pdf.pdf" "Apellido_Nombre_Taller_Herramientas.pdf" 1702418741 2
+  "Apellido_Nombre_Taller_Herramientas.pdf.aux" 1702418740 1974 af4a63ef93a31442ec9e2a9727547d6f "pdflatex"
+  "Apellido_Nombre_Taller_Herramientas.pdf.bbl" 0 -1 0 "bibtex Apellido_Nombre_Taller_Herramientas.pdf"
+  "Apellido_Nombre_Taller_Herramientas.pdf.tex" 1702418560 21352 2760bd8bc169fed7157ac61419ac0ff5 ""
+  "Apellido_Nombre_Taller_Herramientas.pdf.toc" 1702418740 348 68c1716a5d6bf64b6d6c75b9cdcb7a40 "pdflatex"
   "C:/Users/gusta/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1700165382 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/gusta/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1695663717 11548 27e570bf05ba4597b84c165f7e1526b9 ""
   "C:/Users/gusta/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1695120301 24142036 e4ea9d5291b0248cfcdf345065ad18be ""
@@ -32,15 +36,12 @@
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmib10.tfm" 1136765053 1524 554068197b70979a55370e6c6495f441 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti10.tfm" 1136765053 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
-  "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmtt10.tfm" 1136765053 768 1321e9409b4137d6fb428ac9dc956269 ""
-  "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247596667 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
-  "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1247596667 31099 342ef5a582aacbd3346f3cf4579679fa ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1693303475 147701 65923c3ddeaf8cd564682e9b3a5028d2 ""
@@ -238,19 +239,15 @@
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1650051284 20785 71a3d72ab517959a6979c27e6176bec1 ""
   "Dispersion1.png" 1702411018 569575 b1f961dbf4e911ed682fb595724f765e ""
   "Grapich.png" 1702393963 142565 8c21adac56bbdee60c815d077f243bb7 ""
-  "Taller_herramientas_control.aux" 1702418565 3751 5a78a00b7e74d5387276464e1a2e015a "pdflatex"
-  "Taller_herramientas_control.bbl" 1702418557 4291 8e0d31b51c089519732cab1bb6bd8aab "bibtex Taller_herramientas_control"
-  "Taller_herramientas_control.tex" 1702418560 21352 2760bd8bc169fed7157ac61419ac0ff5 ""
-  "Taller_herramientas_control.toc" 1702418565 392 d7ebdcbb94ebf36a0bc17e7e0b7b9da4 "pdflatex"
-  "c:/Users/gusta/OneDrive - SENA/Desktop/Taller_herramientas_control/Taller_herramientas_control.tex" 1702418560 21352 2760bd8bc169fed7157ac61419ac0ff5 ""
+  "c:/Users/gusta/OneDrive - SENA/Desktop/Taller_herramientas_control/Apellido_Nombre_Taller_Herramientas.pdf.tex" 1702418560 21352 2760bd8bc169fed7157ac61419ac0ff5 ""
   "espina.png" 1702327155 76665 8da0b40b6fbaa61c9608a8d57f39642d ""
   "espina2.png" 1702329138 73068 af3b42a3bf1643fe56311f9514b579a2 ""
   "flujo_simb.png" 1702399763 105283 c043f3a9647494ba96a6a8c199919d54 ""
   "flujotornillos.png" 1702402797 65592 31e081e9a9dbc7ba353a89f1a6f8f97d ""
   "tendencia.png" 1702415908 124675 6148938da1325cd4c166d169ac95bd2a ""
   (generated)
-  "Taller_herramientas_control.aux"
-  "Taller_herramientas_control.log"
-  "Taller_herramientas_control.pdf"
-  "Taller_herramientas_control.toc"
+  "Apellido_Nombre_Taller_Herramientas.pdf.aux"
+  "Apellido_Nombre_Taller_Herramientas.pdf.log"
+  "Apellido_Nombre_Taller_Herramientas.pdf.pdf"
+  "Apellido_Nombre_Taller_Herramientas.pdf.toc"
   (rewritten before read)
